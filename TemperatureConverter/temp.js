@@ -21,7 +21,3 @@ function convert(){
     }
 
 };
-
-let x=[1,2,3,4,5];
-let y=Math.max(...x);
-console.log(y);
